@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vrs9oxKts9DuHIFy2ay1ZZgZC5hJvWOQ4m2V7SbVpFkaLTnC57iaHJigrmp72Nm0vzL3Smc2Rbl+3lxaKM/i6w==",
+  "success": true,
+  "projectFilePath": "C:\\taller1\\repogit\\tp6\\tpn6-shesheNati\\punto4\\punto4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sheshe\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

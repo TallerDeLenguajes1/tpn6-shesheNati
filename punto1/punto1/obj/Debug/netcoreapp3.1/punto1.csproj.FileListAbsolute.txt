@@ -1,0 +1,13 @@
+C:\taller1\repogit\tp6\tpn6-shesheNati\punto1\punto1\bin\Debug\netcoreapp3.1\punto1.exe
+C:\taller1\repogit\tp6\tpn6-shesheNati\punto1\punto1\bin\Debug\netcoreapp3.1\punto1.deps.json
+C:\taller1\repogit\tp6\tpn6-shesheNati\punto1\punto1\bin\Debug\netcoreapp3.1\punto1.runtimeconfig.json
+C:\taller1\repogit\tp6\tpn6-shesheNati\punto1\punto1\bin\Debug\netcoreapp3.1\punto1.runtimeconfig.dev.json
+C:\taller1\repogit\tp6\tpn6-shesheNati\punto1\punto1\bin\Debug\netcoreapp3.1\punto1.dll
+C:\taller1\repogit\tp6\tpn6-shesheNati\punto1\punto1\bin\Debug\netcoreapp3.1\punto1.pdb
+C:\taller1\repogit\tp6\tpn6-shesheNati\punto1\punto1\obj\Debug\netcoreapp3.1\punto1.csprojAssemblyReference.cache
+C:\taller1\repogit\tp6\tpn6-shesheNati\punto1\punto1\obj\Debug\netcoreapp3.1\punto1.AssemblyInfoInputs.cache
+C:\taller1\repogit\tp6\tpn6-shesheNati\punto1\punto1\obj\Debug\netcoreapp3.1\punto1.AssemblyInfo.cs
+C:\taller1\repogit\tp6\tpn6-shesheNati\punto1\punto1\obj\Debug\netcoreapp3.1\punto1.csproj.CoreCompileInputs.cache
+C:\taller1\repogit\tp6\tpn6-shesheNati\punto1\punto1\obj\Debug\netcoreapp3.1\punto1.dll
+C:\taller1\repogit\tp6\tpn6-shesheNati\punto1\punto1\obj\Debug\netcoreapp3.1\punto1.pdb
+C:\taller1\repogit\tp6\tpn6-shesheNati\punto1\punto1\obj\Debug\netcoreapp3.1\punto1.genruntimeconfig.cache
